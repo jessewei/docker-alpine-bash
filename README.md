@@ -17,7 +17,7 @@ Total size of this image is only:
 Usage Example
 -------------
 
-Bash prompt wait your comand or
+Bash prompt wait your comand 
 ```bash
 $ docker run --rm jessewei/alpine-bash
 ```
